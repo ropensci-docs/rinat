@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b727d94e2dce789af59d0328bbd1c14d060912e3",
+    "author": "Stéphane Guillou <stephane.guillou@member.fsf.org>",
+    "time": "2021-03-08 02:54:38",
+    "files": 2,
+    "merge": false,
+    "message": "add CRAN comments and missing NEWS item\n"
+  },
+  "remote": "https://github.com/ropensci/rinat",
+  "pkg": "rinat"
+}
