@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f583bd94bfbb3b1626670e7dbe08a9d3b494bbc8",
+    "author": "Stéphane Guillou <stephane.guillou@member.fsf.org>",
+    "time": "2022-06-14 05:47:00",
+    "files": 2,
+    "merge": false,
+    "message": "check on more platforms before release; fix year\n"
+  },
+  "repo": "https://github.com/ropensci/rinat",
+  "pkg": "rinat"
+}
