@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "44c9f1c892765e40948b2a286a53f302328ccf03",
+    "author": "Stéphane Guillou <stephane.guillou@member.fsf.org>",
+    "time": "2025-08-30T16:29:03Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.1.10.9000\n"
+  },
+  "repo": "https://github.com/ropensci/rinat",
+  "pkg": "rinat",
+  "time": "2026-08-30T07:24:02Z"
+}
